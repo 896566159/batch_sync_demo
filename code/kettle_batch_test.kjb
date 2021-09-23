@@ -445,8 +445,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>384</xloc>
-      <yloc>272</yloc>
+      <xloc>416</xloc>
+      <yloc>240</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -489,8 +489,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>544</xloc>
-      <yloc>272</yloc>
+      <xloc>592</xloc>
+      <yloc>240</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -502,7 +502,7 @@
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>768</xloc>
-      <yloc>272</yloc>
+      <yloc>240</yloc>
       <attributes_kjc/>
     </entry>
   </entries>
