@@ -1,0 +1,11 @@
+src,tt
+st_snstate,ods_jx_st_snstate
+st_sndetail_proin,ods_jx_st_sndetail_proin
+sa_sndetail_disp,ods_jx_sa_sndetail_disp
+dispatchlists,ods_jx_dispatchlists
+dispatchlist,ods_jx_dispatchlist
+warehouse,ods_jx_warehouse
+inventoryclass,ods_jx_inventoryclass
+rdrecords10,ods_jx_rdrecords10
+rdrecord10,ods_jx_rdrecord10
+inventory,ods_jx_inventory
